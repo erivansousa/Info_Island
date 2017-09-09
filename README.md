@@ -18,4 +18,4 @@ Java 7 or superior installed.
 
 ## Authors
 
-* **Erivan Sousa** - *Initial work* - [PurpleBooth](https://github.com/erivansousa)
+* **Erivan Sousa** - *Initial work* - [Erivan Sousa](https://github.com/erivansousa)
